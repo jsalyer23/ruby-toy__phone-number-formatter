@@ -27,6 +27,7 @@ def format_phone_number(phone_number_str)
 	puts just_numbers
 end
 
+#tests because I couldn't figure out how we were suppose to run tests that were in the tests folder...
 format_phone_number("1 23 123  55 5 5")
 format_phone_number("8889382322")
 format_phone_number("898-686-9900")
